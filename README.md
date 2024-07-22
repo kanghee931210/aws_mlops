@@ -2,4 +2,4 @@
 AWS mlops ci/cd pipeline
 
 ## Test version
-#### version 4
+#### version 5
